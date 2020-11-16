@@ -6,5 +6,4 @@ public class simulation {
 		// TODO Auto-generated method stub
 
 	}
-
 }
